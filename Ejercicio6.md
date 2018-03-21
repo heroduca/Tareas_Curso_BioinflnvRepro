@@ -1,11 +1,11 @@
 `Archivo realizado por Dulce Carolina Hernández Rosales`
 
-
-
-#4. Running the pipeline
+4. Running the pipeline
+======
 ___
 
-###4.1 Clean the data
+4.1 Clean the data
+------
 
 In a typical analysis, data will be received from an Illumina sequencer, or some other type of sequencer as FASTQ files. The first requirement is to demultiplex, or sort, the raw data to recover the individual samples in the Illumina library. While doing this, we will use the [PHRED](https://en.wikipedia.org/wiki/Phred_quality_score) scores provided in the FASTQ files to discard sequencing reads of low quality. These tasks are accomplished using the __process_radtags__ program. 
 
