@@ -1,6 +1,6 @@
 `Archivo realizado por Dulce Carolina Hernández Rosales`
 
-4. Running the pipeline
+4.Running the pipeline
 ======
 ___
 
