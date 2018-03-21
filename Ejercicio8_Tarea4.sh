@@ -18,8 +18,8 @@ wget http://www.uniprot.org/uniprot/P04156.fasta
 
 #Paso 2.2 Se descargará una base de datos del pez zebra, desde NCBI, además de que será comprimido
 
-$ curl -O ftp://ftp.ncbi.nih.gov/refseq/D_rerio/mRNA_Prot/zebrafish.1.protein.faa.gz
-$ gunzip zebrafish.1.protein.faa.gz
+curl -O ftp://ftp.ncbi.nih.gov/refseq/D_rerio/mRNA_Prot/zebrafish.1.protein.faa.gz
+gunzip zebrafish.1.protein.faa.gz
 
 #Paso 2.3 Se prepara la base de datos
 #Primero, los archivos deben estar dentro de los contenedores, por lo que, deben crearse
