@@ -106,7 +106,7 @@ Contras:
 - Un poco confuso en los contigs que fueron construidos.
 - Uso relativamente alto de memoria RAM (150GB).
 
-Existen otros softwares los cuales podrás encontrarlos y tener una breve reseña <a href=" https://en.wikibooks.org/wiki/Next_Generation_Sequencing_(NGS)/De_novo_assembly>">aquí</a>
+Existen otros softwares los cuales podrás encontrarlos y tener una breve reseña <a href="https://en.wikibooks.org/wiki/Next_Generation_Sequencing_(NGS)/De_novo_assembly>">aquí</a>
 
 
 
