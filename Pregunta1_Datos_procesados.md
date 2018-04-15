@@ -1,7 +1,7 @@
 Después de que los datos fueron pre-procesados, yo utilizaría el programa **Platanus** para el ensamble de *contigs* 
 de una secuencia, en este caso tenemos un ejemplo de mariposa de la especie *Papilio xuthus* que brinda el ejemplo del 
 programa. 
-Para el ensable de los contigs, un comando sería
+Para el ensamble de los contigs, un comando sería
 
     Platanus assemble –o Pxut –f ./DRR02167[34]_[12].fastq –t 16 –m 128 2> assemble.log
 
