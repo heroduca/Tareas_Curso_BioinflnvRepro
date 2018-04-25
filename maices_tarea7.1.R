@@ -1,6 +1,10 @@
 #Este script es para la pregunta 1 del la tarea 7.1
 #Hecho por Dulce Hernández
 
+
+#Comenzar con el cerebro vacío
+rm(list = ls())
+
 #a. Instalar paquetería, siempre y cuando no se tenga y 
 #debe hacerse desde la consola y debe hacerse una sola vez
 install.packages("vegan")
