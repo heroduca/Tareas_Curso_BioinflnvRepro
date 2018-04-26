@@ -7,7 +7,8 @@ rm(list = ls())
 
 #a. Instalar paquetería, siempre y cuando no se tenga y 
 #debe hacerse desde la consola y debe hacerse una sola vez
-install.packages("vegan")
+#por ejemplo
+install.packages("tidyverse")
 
 #b. Cargar la librería necesaria 
 library(plyr)
